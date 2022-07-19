@@ -1,0 +1,8 @@
+#navbar {
+  float: left;
+  height: 80vh;
+}
+#navbar a {
+  display: block;
+  height: 2rem;
+}
